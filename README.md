@@ -41,24 +41,24 @@ df.info()
 df.isnull().sum()
 ```
 # OUTPUT
- READ_CSV
+ # 1 READ_CSV
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/084ba31c-5460-4c42-9f56-701be0df9a3c)
- HEAD
+ # 2.HEAD
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/dd8c11fa-4c18-4435-94fb-b8a96cf8a630)
- TAIL
+ # 3.TAIL
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/083ecd66-7fd2-467c-bf31-3fcc23a1c87a)
- INFO
+ # 4.INFO
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/d44617a2-bdc2-4437-9530-14911f38f3b4)
- ISNULL
+ # 5.ISNULL
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/5dcc0aa0-9370-4757-a277-9eba1ba97cf9)
- ISNULL_SUM
+ # 6.ISNULL_SUM
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/b82b82fa-d2e2-46ab-81ef-f3025a2ff1df)
- MEAN
+ # 7.MEAN
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/0037257f-f2b6-472b-976a-b512d2d0a6d8)
- DROPNA
+ # 8.DROPNA
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/471b7f77-6502-4f20-a5de-640c3504f26c)
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/04bb7e1c-c436-468d-9261-4a6f41fccdb1)
- FILLNA
+# 9.FILLNA
  ![image](https://github.com/Saravanan2512/exno1/assets/144979117/6eeb76bb-dee5-4bc9-9818-a46a8ad8e2c5)
 
 # RESULT
